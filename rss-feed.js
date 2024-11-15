@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-var url = 'https://rarebookroom.blogspot.com/feeds/posts/default?alt=json';
+var url = 'https://lawu22.com/feeds/posts/default?alt=json';
 var defaultImage = 'https://bc.edu/content/dam/bc1/schools/law/js/library/rss-feed/rss-default-500x500.jpg';
 var ImageSize='500';
 $.getJSON(
